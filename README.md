@@ -27,7 +27,7 @@ I heavily modified it a lot by adding the RefreshScene interface and stored othe
 
 # Running tigertouch
 
-Install RPI 32 or 64 bit OS.  If you want thinga to run faster boot from a SSD drive instead of the SD card
+Install RPI 32 or 64 bit OS.  If you want things to run faster boot from a SSD drive instead of the SD card
 the instructions to do this.
 
 [Install OS on SSD](https://linuxhint.com/how_to_boot_raspberry_pi_4_from_usb_ssd/)
@@ -55,7 +55,7 @@ To run without compiling the java source. In the pi home directory.
 
 tar xvzf TigerTouch.tgz
 
-The directory TigerTouch directory from the archive about contains jars and other files need to run tigertouch.
-The bin directory will contain the shell script call tigertouch thay will exec the TigerTouch example program.
+The directory TigerTouch directory from the archive contains jars and other files need to run tigertouch.
+The bin directory will contain the shell script called tigertouch that will exec the TigerTouch example program.
 
 The command line to execute the test program is pretty long, so it became a script.
